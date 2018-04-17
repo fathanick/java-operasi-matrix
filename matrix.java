@@ -1,10 +1,6 @@
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-/**
- *
- * @author Umar Al-Faruq
- */
 class OperasiMatriks {
 
     public static void main(String[] args) {
